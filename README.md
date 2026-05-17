@@ -1,0 +1,1 @@
+It is written using Java and demonstrates how data is managed using Object-Oriented Programming concepts. It shows how classes, inheritance, polymorphism, abstraction, and encapsulation work together in a structured program. It also helps organize data efficiently using user input, ArrayList, and error handling.
